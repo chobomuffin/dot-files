@@ -1,11 +1,11 @@
 [user]
-        name = Ben Hoskings
-        email = ben@hoskings.net
+        name = Daniel Whelan
+        email = daniel.whelan@logicerror.org
 [color]
 	diff = auto
 	status = auto
 	branch = auto
 [core]
-	excludesfile = /Users/ben/.gitignore
+	excludesfile = /home/danielw/.gitignore
 [github]
-	user = benhoskings
+	user = danielw
